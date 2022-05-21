@@ -1,3 +1,3 @@
-# Deme-Repo2
+# Demo-Repo2
 
 Description about the repository...
